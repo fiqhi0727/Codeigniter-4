@@ -138,7 +138,7 @@ class Pages extends BaseController
 </html>
 ```
 #### Create home.php and about.php
-- home dan about bisa diisi bebas bisa langusung <h1>Hello World</h1> karena sudah ada tempelate header dan footernya
+- home dan about bisa diisi bebas bisa langusung '<h1>Hello World</h1>' karena sudah ada tempelate header dan footernya
 #### Complete Pages::view() Method
 membuat sebuah logika pada controller
 ```PHP
